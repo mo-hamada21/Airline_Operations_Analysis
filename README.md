@@ -76,7 +76,7 @@ The analysis generates:
 
 ## Project Structure
 ```
-├── Project.ipynb       # Jupyter Notebook with the analysis
+├── Airline Operation Analysis.ipynb       # Jupyter Notebook with the analysis
 ├── requirements.txt    # Required Python dependencies
 ├── HelperFunctions.py  # Custom utility functions
 ├── data
