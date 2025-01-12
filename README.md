@@ -85,18 +85,3 @@ The analysis generates:
 ```
 
 ---
-
-## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or new features.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Contact
-For any questions or feedback, feel free to reach out at:
-- **Email**: your-email@example.com
-- **GitHub**: [your-github-handle](https://github.com/your-github-handle)
